@@ -14,7 +14,7 @@ https://invoice-generator-react.netlify.app/
 ### Installation
 
 ```
-git clone https://github.com/johnuberbacher/invoice-generator
+git clone https://github.com/Sak608/Invoice-generator.git
 
 npm install
 
@@ -31,6 +31,6 @@ npm start / npm run build
 - [ ] Store invoices in Firebase DB
 
 
-### Meta
+<!-- ### Meta
 
-John Uberbacher – [johnuberbacher.com](https://johnuberbacher.com)
+John Uberbacher – [johnuberbacher.com](https://johnuberbacher.com) -->
